@@ -1,0 +1,13 @@
+{
+  "title": "Requests list",
+  "newRequest": "New Request",
+  "searchPlaceholder": "What do you want to find?",
+  "emptyRequests": "Requests not found",
+  "filter": "Filter",
+  "apply": "Apply",
+  "chooseStatus": "Choose Status",
+  "status": {
+    "active": "Active",
+    "disable": "Not Active"
+  }
+}

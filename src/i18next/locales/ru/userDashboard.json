@@ -1,0 +1,11 @@
+{
+  "buttons": {
+    "profileSettings": "Настройки профиля",
+    "createRequest": "Создать запрос"
+  },
+  "headers": {
+    "requestCount": "Общее количество запросов",
+    "recommendedOffers": "Рекомендуемые предложения",
+    "events": "События"
+  }
+}

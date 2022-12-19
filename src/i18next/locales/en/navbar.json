@@ -1,0 +1,12 @@
+{
+    "navigations": {
+        "products": "Catalog",
+        "requests": "Requests",
+        "offers": "Offers",
+        "deals": "Deals"
+    },
+    "userActions": {
+        "signup": "Sign up",
+        "login": "Log in"
+    }
+}

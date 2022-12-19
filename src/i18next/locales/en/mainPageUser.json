@@ -1,0 +1,19 @@
+{
+  "howWorking": {
+    "title": "How we are working",
+    "createRequest": "Create a request",
+    "textCreateRequest": "Create a request with the product you need. Add his photo, description and tags to him.",
+    "considerOffers": "Consider offers",
+    "textConsiderOffers": "Find the one that suits you in the offer list.",
+    "buyProduct": "Buy a product",
+    "textBuyProduct": "Discuss the purchase with the seller and purchase the product.",
+    "findRequest": "Find the right request",
+    "textFindRequest": "The directory displays requests that match your tags, using the filter, find the right one for you!",
+    "offerYourProduct": "Offer your product to the customer",
+    "textOfferYourProduct": "Add a product to the product catalog and offer it to the buyer.",
+    "discussDeal" : "Discuss the details and close the deal",
+    "textDiscussDeal": "Discuss the deal with the buyer in the chat and complete it."
+  },
+  "newProducts": "New products from the catalog",
+  "suitableProducts": "Suitable Products "
+}

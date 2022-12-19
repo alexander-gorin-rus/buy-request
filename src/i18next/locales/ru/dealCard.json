@@ -1,0 +1,38 @@
+{
+  "links": {
+    "requestDetail": "Ваш запрос",
+    "offerDetail": "Предложение продавца",
+    "sellerRequestDetail": "Запрос покупателя",
+    "sellerOfferDetail": "Ваше предложение"
+  },
+  "dealStatus": {
+    "progress": "В процессе",
+    "paid": "Оплачена",
+    "canceled": "Отменена",
+    "confirm": "Подтверждена",
+    "customer_paid": "Ожидает подтверждения оплаты",
+    "dispute": "В споре"
+  },
+  "dealStatusPlural": {
+    "progress": "В процессе",
+    "paid": "Оплачены",
+    "canceled": "Отменены",
+    "confirm": "Подтверждены",
+    "customer_paid": "Ожидают подтверждения оплаты",
+    "dispute": "В споре"
+  },
+  "additionalConditions": "Дополнительные условия",
+  "statusDeal": "Статус сделки",
+  "tags": "Теги",
+  "media": "Медиа",
+  "price": "Цена",
+  "budget": "Бюджет",
+  "information": {
+    "paymentConditions": "Самостоятельно выбирайте условия и формат оплаты товара",
+    "chatDiscussions": "Обсуждайте условия сделки в чате",
+    "dealConditions": "Закрывайте сделку в случае, если вас не устраивают условия"
+  },
+  "button": "Написать",
+  "showDetails": "Смотреть подробности",
+  "hideDetails": "Скрыть подробности"
+}

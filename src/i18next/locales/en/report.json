@@ -1,0 +1,19 @@
+{
+  "title": "Report",
+  "inputSubject": {
+    "label": "Subject of the appeal",
+    "placeholder": "Specify the subject of the appeal"
+  },
+  "inputMessage": {
+    "label": "Description",
+    "placeholder": "Describe the problem so we can help"
+  },
+  "buttons": {
+    "send": "Send",
+    "cancel": "Cancel"
+  },
+  "validation": {
+    "required": "Required to fill"
+  },
+  "success": "Message sent successfully"
+}

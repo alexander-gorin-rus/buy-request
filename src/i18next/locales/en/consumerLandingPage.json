@@ -1,0 +1,19 @@
+{
+  "title": "Find exactly What you need",
+  "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  "howWorks": {
+    "title": "How BuyRequest works for you",
+    "steps": {
+      "createProfile": "Create a BuyRequest Profile",
+      "placeOrder": "Place an order",
+      "getOffers": "Get offers from our Sellers",
+      "buyProduct": "Buy the Product"
+    }
+  },
+  "form": {
+    "title": "Get Started Now",
+    "buttons": {
+      "register": "Register"
+    }
+  }
+}

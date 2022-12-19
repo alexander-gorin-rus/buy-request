@@ -1,0 +1,9 @@
+{
+  "title": "User Profile",
+  "buttons": {
+    "cancel": "Cancel",
+    "changePassword": "Change password",
+    "save": "Save",
+    "editProfile": "Edit profile"
+  }
+}

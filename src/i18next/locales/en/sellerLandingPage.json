@@ -1,0 +1,19 @@
+{
+  "title": "Find customers easy With BuyRequest",
+  "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  "howWorks": {
+    "title": "How BuyRequest works for you",
+    "steps": {
+      "createProfile": "Create a BuyRequest Profile",
+      "lookOrdersCategory": "Look for orders in your category",
+      "offerProducts": "Offer your products to Customers",
+      "makeDeal": "Make a deal"
+    }
+  },
+  "form": {
+    "title": "Get Started Now",
+    "buttons": {
+      "register": "Register"
+    }
+  }
+}

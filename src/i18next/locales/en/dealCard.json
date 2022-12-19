@@ -1,0 +1,38 @@
+{
+  "links": {
+    "requestDetail": "Your request",
+    "offerDetail": "Seller offer",
+    "sellerRequestDetail": "Consumer Request",
+    "sellerOfferDetail": "Your Offer"
+  },
+  "dealStatus": {
+    "progress": "Progress",
+    "paid": "Paid",
+    "canceled": "Canceled",
+    "confirm": "Confirm",
+    "customer_paid": "Awaiting payment confirmation",
+    "dispute": "In dispute"
+  },
+  "dealStatusPlural": {
+    "progress": "Progress",
+    "paid": "Paid",
+    "canceled": "Canceled",
+    "confirm": "Confirm",
+    "customer_paid": "Awaiting payment confirmation",
+    "dispute": "In dispute"
+  },
+  "additionalConditions": "Additional Conditions",
+  "statusDeal": "Status deal",
+  "tags": "Tags",
+  "media": "Media",
+  "price": "price",
+  "budget": "Budget",
+  "information": {
+    "paymentConditions": "Choose deal conditions and payment methods",
+    "chatDiscussions": "Discuss chat conditions in the chat",
+    "dealConditions": "Decline the deal if you don't like the conditions"
+  },
+  "button": "Write",
+  "showDetails": "Show details",
+  "hideDetails": "Hide details"
+}

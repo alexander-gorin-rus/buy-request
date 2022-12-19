@@ -1,0 +1,13 @@
+{
+  "buttons": {
+    "profileSettings": "View Profile Settings",
+    "createOffer": "Create Offer"
+  },
+  "headers": {
+    "offerCount": "Total offer count",
+    "recommendedRequests": "Recommended requests",
+    "events": "Events"
+  },
+  "noRequests": "There are no requests for your tags yet. You can manage tags in your profile settings.",
+  "subscribeMessage": "To see recommendations, you must subscribe to at least one tag."
+}

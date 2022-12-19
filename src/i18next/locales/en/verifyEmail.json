@@ -1,0 +1,12 @@
+{
+  "success": "Account verified",
+  "failure": {
+    "USER_NOT_EXIST": "The user does not exist",
+    "EMAIL_IS_ALREADY_VERIFIED": "The email has already been verified",
+    "OTHER": "We were unable to verify the account"
+  },
+  "button": {
+    "login": "Login",
+    "resend": "Resend"
+  }
+}

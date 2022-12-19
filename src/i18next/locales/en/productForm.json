@@ -1,0 +1,31 @@
+{
+  "creatingProductTitle": "Creating new product",
+  "editingProductTitle": "Editing product",
+  "productCreationVerificationNotice": "After verification by the moderator, the product will be added to the catalog",
+  "deleteProductModalNotice": "The item will be permanently deleted. Proceed?",
+  "deleteAfterVerification": "After verification by the moderator, the product will be deleted",
+  "updateAfterVerification": "After verification by the moderator, the product will be added to the catalog",
+  "form": {
+    "label": {
+      "production": "Production",
+      "name": "Product name",
+      "model": "Model",
+      "tag": "Product tag",
+      "productionGuarantee": "Guarantee",
+      "description": "Description",
+      "media": "Media",
+      "noProducts": "There are no products on your request"
+    },
+    "placeholder": {
+      "production": "Apple",
+      "name": "Mobile",
+      "model": "IPhone",
+      "tag": "Start to input the category or choose from the list",
+      "productionGuarantee": "Production guarantee",
+      "description": "Give full description of your product"
+    }
+  },
+  "returnToCatalog": "Catalog",
+  "warranty": "Warranty",
+  "notFound": "Product not found"
+}

@@ -1,0 +1,19 @@
+{
+  "seller": "Seller",
+  "consumer": "Consumer",
+  "totalRequests": "Total requests",
+  "totalTransactions": "Total transactions",
+  "totalOffers": "Total Offers",
+  "subscribeToTags": "Subscribe to tags",
+  "backBtnTitle": "Profile",
+  "emailNotifications": "Receive email notifications",
+  "emptyTags": "Nothing found for your request",
+  "save": "Save",
+  "cancel": "Cancel",
+  "review": "Review:",
+  "reviewsEmptyText": "Reviews will appear here",
+  "editProfile": "Edit profile",
+  "avatarSettingsBackBtn": "Image",
+  "replaceImage": "Replace image",
+  "addImage": "Add image"
+}

@@ -1,0 +1,32 @@
+{
+  "creatingProductTitle": "Создание нового товара",
+  "editingProductTitle": "Редактирование товара",
+  "productCreationVerificationNotice": "После проверки модератором товар будет добавлен в каталог",
+  "deleteProductModalNotice": "Товар будет удален безвозвратно. Продолжить?",
+  "deleteAfterVerification": "После проверки модератором продукт будет удален",
+  "updateAfterVerification": "После проверки модератором товар будет добавлен в каталог",
+  "form": {
+    "label": {
+      "production": "Производитель",
+      "name": "Наименование товара",
+      "model": "Модель",
+      "tag": "Тег товара",
+      "productionGuarantee": "Гарантия",
+      "description": "Описание",
+      "media": "Медиа",
+      "date": "Дата",
+      "noProducts": "По вашему запросу ничего не найдено"
+    },
+    "placeholder": {
+      "production": "Apple",
+      "name": "Телефон",
+      "model": "IPhone",
+      "tag": "Начните вводить категорию или выберите из списка",
+      "productionGuarantee": "Годен до",
+      "description": "Максимально подробно опишите товар"
+    }
+  },
+  "returnToCatalog": "Каталог",
+  "warranty": "Гарантия",
+  "notFound": "Продукт не найден"
+}

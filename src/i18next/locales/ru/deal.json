@@ -1,0 +1,18 @@
+{
+  "title": "Список сделок",
+  "feedBackFormTitle" : "Сделка подтверждена! Оцените сделку.",
+  "comment": "Комментарий",
+  "checkTracking": "Отслеживание товара",
+  "paymentModalNotice": "Вы подтверждаете получение платежа?",
+  "confirmPaymentModalNotice": "Вы подтверждаете оплату товара?",
+  "completeDealModalNotice": "Вы подтверждаете получение товара?",
+  "completeDealNotice": "Доступно после подтверждения оплаты продавцом",
+  "dealPaymentNotice": "Доступно после подтверждения оплаты покупателем",
+  "feedbackNotice": "Доступно после завершения сделки покупателем",
+  "emptyDeals": "Сделки не найдены",
+  "dealListItem": {
+    "expiratedAt": "Действует до",
+    "createdAt": "Создана",
+    "dealLink": "Посмотреть сделку"
+  }
+}

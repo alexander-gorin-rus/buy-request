@@ -1,0 +1,9 @@
+{
+    "budget": {
+        "label": "до "
+    },
+    "status": {
+        "in_progress": "Активен",
+        "disable": "Не активен"
+    }
+}

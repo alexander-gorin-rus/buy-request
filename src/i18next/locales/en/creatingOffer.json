@@ -1,0 +1,37 @@
+{
+  "title": "Creating new Offer",
+  "form": {
+    "label": {
+      "good": "Product name",
+      "price": "Price",
+      "description": "Description",
+      "ecogood": "Ecogood",
+      "offerName": "Offer name"
+    },
+    "buttons": {
+      "create": "Create"
+    }
+  },
+  "requestInfo": {
+    "requestedBy": "At buyer's request",
+    "returnToRequest": "Return to Request",
+    "offerName": "Offer name",
+    "budgetTo": "to",
+    "addMedia": "Add media",
+    "nameOfBuyer": "At request form buyer: "
+  },
+  "offerInfo": {
+    "offerPrice": "What price do you sell",
+    "offerDescription": "Describe your offer in detail, this will help the buyer understand you better",
+    "bargainNotice": "The service reserves the right for consumer to bargain with the seller",
+    "additionalConditions": "You can describe additional conditions",
+    "offerTitle": "Enter offer name"
+  },
+  "productInfo": {
+    "noProducts": "Sorry, there are no products matching your request."
+  },
+  "priceInfoModal": {
+    "title": "The price is above the buyer's budget",
+    "description": "You have indicated a price above the buyer's budget, your offer is likely to be rejected. Proceed?"
+  }
+}

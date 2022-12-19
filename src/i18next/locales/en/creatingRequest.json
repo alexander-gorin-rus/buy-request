@@ -1,0 +1,30 @@
+{
+  "title": "Creating new request",
+  "form": {
+    "label": {
+      "budget": "Enter your budget",
+      "tag": "Tags",
+      "budgetFrom": "From",
+      "products": "Please add goods that may suit you",
+      "description": "Description",
+      "requestName": "Request name"
+    },
+    "placeholder": {
+      "requestName": "Type the name of the good that you'd like to buy",
+      "products": "Choose goods that may suit you",
+      "tag": "Add tag",
+      "description": "Give the full description of the good",
+      "budgetFrom": "To"
+    },
+    "requestInfo": {
+      "note": "Service reminds that you can negotiate prices with the seller"
+    },
+    "buttons": {
+      "close": "Close",
+      "publish": "Publish"
+    },
+    "analogues": {
+      "readyForAnalogues": "Ready for analogues"
+    }
+  }
+}

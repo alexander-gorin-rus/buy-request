@@ -1,0 +1,28 @@
+{
+  "register": {
+    "USER_EXIST": "User with this email is already registered"
+  },
+  "login": {
+    "USER_NOT_EXIST": "The user does not exist",
+    "PASSWORD_ERROR": "Invalid email or password",
+    "EMAIL_IS_NOT_VERIFIED": "Email is not verified"
+  },
+  "changePasswordStatus": {
+    "PASSWORD_ERROR": "You entered incorrect password"
+  },
+  "verifyEmail": {
+    "USER_NOT_EXIST": "The user does not exist",
+    "EMAIL_IS_ALREADY_VERIFIED": "The email has already been verified"
+  },
+  "mediaFile": {
+    "IMAGE_SIZE": "Image bigger than 2Mib",
+    "MIN_IMAGE_RESOLUTION" : "The chosen image less than 100х100px",
+    "MAX_IMAGE_RESOLUTION" : "The chosen image larger than 7680х4680px"
+  },
+  "resetPassword": {
+    "CODE_TIMEOUT": "Password expired",
+    "INCORRECT_CODE": "Incorrect code",
+    "SAME_PASSWORD": "The entered password matches the current one"
+  },
+  "error": "Error"
+}

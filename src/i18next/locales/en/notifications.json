@@ -1,0 +1,25 @@
+{
+  "title": "Notifications",
+  "viewAll": "View all",
+  "notFound": "There are no notifications",
+  "day": "days",
+  "offer": {
+    "created": "New offer",
+    "canceled": "Offer has been canceled",
+    "confirmed": "Your offer has been confirmed"
+  },
+  "request": {
+    "created": "New request"
+  },
+  "deal": {
+    "created": "Deal created",
+    "paid": "The deal is paid",
+    "canceled": "The deal was canceled",
+    "completed": "Deal completed successfully",
+    "customer_paid": {
+      "message": "Confirm payment. The consumer paid for your item"
+    },
+    "dispute": "Dispute opened in a deal"
+  },
+  "new_message": "New message"
+}

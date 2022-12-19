@@ -1,0 +1,8 @@
+{
+  "title": "Check Tracking",
+  "description": "Shipping status",
+  "countries": {
+    "destination": "Country destation",
+    "departure": "Country of departure"
+  }
+}

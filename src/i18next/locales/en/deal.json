@@ -1,0 +1,18 @@
+{
+  "title": "Deal list",
+  "feedBackFormTitle" : "Deal confirmed! Rate the deal.",
+  "comment": "Comment",
+  "checkTracking": "Check tracking",
+  "paymentModalNotice": "Do you confirm receiving payment?",
+  "confirmPaymentModalNotice": "Do you confirm payment for the goods?",
+  "completeDealModalNotice": "Do you confirm receiving products?",
+  "completeDealNotice": "Available after payment confirmation by seller",
+  "dealPaymentNotice": "Available after payment confirmation by consumer",
+  "feedbackNotice": "Available after completion of the deal by the consumer",
+  "emptyDeals": "Deals not found",
+  "dealListItem": {
+    "expiratedAt": "Expirated at",
+    "createdAt": "Created at",
+    "dealLink": "See the Deal"
+  }
+}

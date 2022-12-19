@@ -1,0 +1,11 @@
+{
+  "buttons": {
+    "profileSettings": "View Profile Settings",
+    "createRequest": "Create a Request"
+  },
+  "headers": {
+    "requestCount": "Total request count",
+    "recommendedOffers": "Recommended Offers",
+    "events": "Events"
+  }
+}

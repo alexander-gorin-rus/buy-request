@@ -1,0 +1,29 @@
+{
+  "register": {
+    "USER_EXIST": "Пользователь с таким email уже зарегистрирован"
+  },
+  "login": {
+    "USER_NOT_EXIST": "Пользователь не найден",
+    "PASSWORD_ERROR": "Неправильный email или пароль",
+    "EMAIL_IS_NOT_VERIFIED": "Пожалуйста, подтвердите email"
+  },
+  "changePasswordStatus": {
+    "PASSWORD_ERROR": "Вы ввели неправильный пароль"
+  },
+  "verifyEmail": {
+    "USER_NOT_EXIST": "Пользователь не найден",
+    "EMAIL_IS_ALREADY_VERIFIED": "Емеил уже верифицирован"
+  },
+  "mediaFile": {
+    "IMAGE_SIZE": "Выбранное изображение больше 2мб",
+    "MIN_IMAGE_RESOLUTION" : "Выбранное изображение меньше 100х100px",
+    "MAX_IMAGE_RESOLUTION" : "Выбранное изображение больше 7680х4680px"
+
+  },
+  "resetPassword": {
+    "CODE_TIMEOUT": "Срок действия пароля истёк",
+    "INCORRECT_CODE": "Неверный код",
+    "SAME_PASSWORD": "Введенный пароль совпадает с текущим"
+  },
+  "error": "Что-то пошло не так"
+}

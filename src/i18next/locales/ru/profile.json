@@ -1,0 +1,19 @@
+{
+  "seller": "Продавец",
+  "consumer": "Покупатель",
+  "totalRequests": "Всего запросов",
+  "totalTransactions": "Всего сделок",
+  "totalOffers": "Всего предложений",
+  "subscribeToTags": "Подписаться на теги",
+  "backBtnTitle": "Профиль",
+  "emailNotifications": "Получать уведомления по электронной почте",
+  "emptyTags": "По вашему запросу ничего не найдено",
+  "save": "Сохранить",
+  "cancel": "Отмена",
+  "review": "Отзыв:",
+  "reviewsEmptyText": "Здесь будут появляться отзывы",
+  "editProfile": "Редактировать профиль",
+  "avatarSettingsBackBtn": "Изображение",
+  "replaceImage": "Заменить изображение",
+  "addImage": "Добавить изображение"
+}

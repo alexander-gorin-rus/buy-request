@@ -1,0 +1,163 @@
+{
+  "companyName": "BuyRequest",
+  "header": {
+    "links": {
+      "login": "Login",
+      "register": "Register"
+    }
+  },
+  "pageTitles": {
+    "catalog": "Catalog",
+    "dealList": "Deal list",
+    "notifications": "Notifications"
+  },
+  "footer": {
+    "info": "© Buy Request 2022",
+    "links": {
+      "help": "Help",
+      "about": "About",
+      "license": "License agreement",
+      "rules": "Service regulations"
+    }
+  },
+  "form": {
+    "label": {
+      "email": "Email",
+      "loginEmail": "E-mail",
+      "password": "Password",
+      "confirmPassword": "Confirm password",
+      "changePassword": "Change password",
+      "surname": "Surname",
+      "username": "Username",
+      "nicknamePlaceholder": "@username",
+      "phoneNumber": "Phone number",
+      "phonePlaceholder": "+7 000 000 00 00",
+      "name": "Name",
+      "company": "Company name",
+      "product": "Product",
+      "price": "Price",
+      "description": "Description",
+      "ecogood": "Ecogood",
+      "additionalConditions": "Additional conditions",
+      "media": "Media",
+      "userSeller": "Seller",
+      "userConsumer": "Consumer",
+      "userType": "Type",
+      "userTypeLabel": "User Type",
+      "tags": "Tags"
+    },
+    "button": {
+      "submit": "Submit",
+      "pay": "Pay",
+      "cancel": "Cancel",
+      "later": "Later",
+      "confirm": "Confirm",
+      "complain": "Complain",
+      "save": "Publish",
+      "ok": "Ok",
+      "createProduct": "Create Product",
+      "edit": "Edit",
+      "remove": "Remove",
+      "back": "Back",
+      "continue": "Continue",
+      "goToSettings": "Go to settings",
+      "estimate": "Estimate",
+      "paid": "Paid",
+      "yes": "Yes",
+      "no": "No",
+      "confirmPayment": "Confirm payment",
+      "completeDeal": "Complete the deal",
+      "passwordInput": "Come in",
+      "signIn": "Sign in",
+      "store": "Save",
+      "revoke": "Cancel",
+      "proceed": "Proceed"
+    },
+    "validations": {
+      "required": "Required to fill",
+      "requiredAccept": "Required accept",
+      "numberPositive": "Only positive number",
+      "numberInteger": "Only integer number",
+      "numberMax": "Number must be less than 2000000000",
+      "onlyNumbers": "Only numbers",
+      "usernameRequired": "Username is required",
+      "nameRequired": "Name is required",
+      "nameNoNumbers": "Name should not contain numbers, spaces, symbols",
+      "tooLong": "Should be shorter than 50 symbols",
+      "tooLongDescription": "Should be shorter than 255 symbols",
+      "veryLongDeacription": "Should be shorter than 1000 symbols",
+      "tooShort": "Should be at least 2 symbols",
+      "surnameRequired": "Surname is required",
+      "surnameNoNumbers": "Surname should not contain numbers, spaces, symbols",
+      "phoneRequired": "Phone number is required",
+      "phoneValidation": "Enter the correct phone number",
+      "emailRequired": "Email is required",
+      "email": "Email must be valid",
+      "passwordRequired": "Password is required",
+      "passwordMinLength": "Password must be more than 8 characters",
+      "regex": "Password must include at least one number, one letter, and one capital letter",
+      "passwordConfirmRequired": "Password confirmation is required",
+      "passwordMatch": "Passwords do not match",
+      "companyRequired": "Company is required",
+      "requestDescriptionRequired": "Description is required",
+      "requestDescriptionMaxLength": "Description is too long",
+      "minOneTag": "Select tag",
+      "maxTagCount": "Limit 3 tags",
+      "minOneMedia": "Required to fill",
+      "maxTenMedia": "Maximum number of files 10",
+      "imageResolution": "Image resolution should be from 100x100 to 4320x7680",
+      "imageSize": "The file size is too large. Permissible size 2 MB",
+      "requestNameTooLong": "Should be shorter than 255 symbols",
+      "offerNameTooLong": "Should be shorter than 255 symbols",
+      "maxProductCountInOfferCreation": "You can only choose one product",
+      "userTypeRequired": "User type is required",
+      "companyTooShort": "Company name is too short",
+      "companyTooLong": "Company name is too long"
+    },
+    "password": {
+      "newPassword": "New password",
+      "confirmPassword": "Repeat password",
+      "code": "Verification code",
+      "oldPassword": "Old password"
+    }
+  },
+  "media": {
+    "add": "Add photo"
+  },
+  "card": {
+    "links": {
+      "learnMore": "Learn More"
+    },
+    "price": "Price"
+  },
+  "currencySign": "$",
+  "sentEmail": "Sent an email",
+  "completeRegistration": "Check your email to complete registration",
+  "chat": {
+    "sendMessage": "Message",
+    "addImage": "Download Image",
+    "fileSizeLimit": "One or more files you want to upload exceed the limit of 2MB, and will not be uploaded",
+    "outNumberedAlert": "You cannot upload more then 10 files at a time, ",
+    "deleteOutNumbered": "please delete ",
+    "numberToDelete": " of them",
+    "previewImageDelete": "Delete",
+    "validations": {
+      "messageTooLong": "The maximum message size is 255 characters",
+      "toManyImages": "Maximum number of images 10"
+    },
+    "days": {
+      "yesterday": "Yesterday",
+      "today": "Today"
+    }
+  },
+  "passwordChange": {
+    "success": "Your password has been changed successfully",
+    "error": "Sorry, your password has not been changed"
+  },
+  "filterPopup": {
+    "chooseStatus": "Choose Status",
+    "status": "Status",
+    "apply": "Apply",
+    "myProducts": "My products"
+  }
+}

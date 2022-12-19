@@ -1,0 +1,26 @@
+{
+  "title": "Offers list",
+  "media": "Media",
+  "refuse": "Refuse",
+  "makeDeal": "Make Deal",
+  "bargainNotice": "The service reserves the right for you to bargain with the seller",
+  "emptyOffers": "Offers not found",
+  "cancelOffer": "This Offer will be cancelled.",
+  "continue": "Continue?",
+  "offersList": "List of Offers",
+  "tags": "Tags",
+  "cancelOfferModal": {
+    "no": "No",
+    "yes": "Yes"
+  },
+  "tooltip": {
+    "cancel": "Cancel"
+  },
+  "cancelWarning": {
+    "title": "The offer will be cancelled. Continue?",
+    "buttons": {
+      "accept": "Yes",
+      "cancel": "Cancel"
+    }
+  }
+}

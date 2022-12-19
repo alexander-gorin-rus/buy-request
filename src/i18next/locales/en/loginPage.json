@@ -1,0 +1,16 @@
+{
+  "title": "Login",
+  "links": {
+    "register": "Sign up",
+    "registerMessage": "Create account?",
+    "forgotPassword": "Forgot password?"
+  },
+  "resend": {
+    "title": "Account needs to be verified",
+    "text": "To use BuyRequest, you must pass verification. We will send a follow-up email to <strong>{{email}}</strong>",
+    "button": {
+      "resend" : "Send"
+     }
+  }
+  
+}

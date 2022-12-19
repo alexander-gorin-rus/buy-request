@@ -1,0 +1,24 @@
+{
+  "consumerNavBar": {
+    "requests": "Requests",
+    "deals": "Deals",
+    "offers": "Offers",
+    "catalog": "Catalog"
+  },
+  "sellerNavBar": {
+    "requests": "Requests",
+    "deals": "Deals",
+    "offers": "Offers",
+    "catalog": "Catalog"
+  },
+  "baseSettings": {
+    "dashboard": "Dashboard",
+    "logout": "Logout"
+  },
+  "consumerSettings": {
+    "profile": "Profile"
+  },
+  "sellerSettings": {
+    "profileSeller": "Profile seller"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "noNotifications": "Уведомлений нет",
+  "showViewed": "Только не просмотренные",
+  "clearAll": "Очистить всё",
+  "chipLabel": {
+    "newOffer": "Новое предложение",
+    "newRequest": "Новый запрос",
+    "offerApproved": "Предложение принято",
+    "unknown": "Неизвестный"
+  },
+  "request": {
+    "created": {
+      "label": "новый запрос"
+    }
+  },
+  "offer": {
+    "created": {
+      "label": "новый оффер"
+    },
+    "canceled": {
+      "label": "оффер отменён"
+    },
+    "confirmed": {
+      "label": "оффер подтверждён"
+    }
+  },
+  "deal": {
+    "created": {
+      "label": "создана сделка"
+    },
+    "paid": {
+      "label": "сделка оплачена"
+    },
+    "canceled": {
+      "label": "сделка отменена"
+    },
+    "completed": {
+      "label": "сделка завершена"
+    },
+    "customer_paid": {
+      "label": "покупатель оплатил сделку"
+    },
+    "dispute": {
+      "label": "открыт спор в сделке"
+    }
+  },
+  "new_message": {
+    "label": "новое сообщение"
+  },
+  "default": {
+    "label": "уведомление"
+  },
+  "type": {
+    "label": "тип уведомления",
+    "all": "Все",
+    "deals": "Сделки",
+    "offers": "Предложения",
+    "requests": "Запросы",
+    "archived": "Архив"
+  },
+  "period": {
+    "label": "Период",
+    "choose_period": "Выбрать период",
+    "all": "за все время",
+    "last_day": "24 часа",
+    "last_week": "7 дней",
+    "last_month": "31 день"
+  },
+  "notifications": {
+    "deleteNotification": "Это уведомление будет удалено. Продолжить?",
+    "delete": "удалить"
+  }
+}

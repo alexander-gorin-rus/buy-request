@@ -1,0 +1,13 @@
+{
+  "title": "Список запросов",
+  "newRequest": "Новый запрос",
+  "searchPlaceholder": "Что вы хотите найти?",
+  "emptyRequests": "Запросы не найдены",
+  "filter": "Фильтр",
+  "apply": "Применить",
+  "chooseStatus": "Выбрать статус",
+  "status": {
+    "active": "Активный",
+    "disable": "Не активный"
+  }
+}

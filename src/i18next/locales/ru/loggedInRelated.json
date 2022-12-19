@@ -1,0 +1,18 @@
+{
+  "consumer": {
+    "settingTooltip": "Открыть настройки",
+    "noticeTooltip": "Открыть уведомления",
+    "noNotice": "Нет новых уведомлений",
+    "buttons": {
+      "seeAll": "Показать все"
+    }
+  },
+  "seller": {
+    "settingTooltip": "Открыть настройки",
+    "noticeTooltip": "Открыть уведомления",
+    "noNotice": "Нет новых уведомлений",
+    "buttons": {
+      "seeAll": "Показать все"
+    }
+  }
+}

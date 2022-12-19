@@ -1,0 +1,163 @@
+{
+  "companyName": "BuyRequest",
+  "header": {
+    "links": {
+      "login": "Вход",
+      "register": "Зарегистрироваться"
+    }
+  },
+  "pageTitles": {
+    "catalog": "Каталог",
+    "dealList": "Список сделок",
+    "notifications": "Уведомления"
+  },
+  "footer": {
+    "info": "© Buy Request 2022",
+    "links": {
+      "help": "Помощь",
+      "about": "О нас",
+      "license": "Пользовательское соглашение",
+      "rules": "Правила пользования сервисом"
+    }
+  },
+  "form": {
+    "label": {
+      "email": "Почта",
+      "loginEmail": "E-mail",
+      "password": "Пароль",
+      "confirmPassword": "Подтверждение пароля",
+      "changePassword": "Изменить пароль",
+      "surname": "Фамилия",
+      "username": "Имя пользователя",
+      "nicknamePlaceholder": "@имя пользователя",
+      "phoneNumber": "Номер телефона",
+      "phonePlaceholder": "+7 000 000 00 00",
+      "name": "Имя",
+      "company": "Название компании",
+      "product": "Товар",
+      "price": "Цена",
+      "description": "Описание",
+      "ecogood": "Эко-товар",
+      "additionalConditions": "Дополнительные условия",
+      "media": "Медиа",
+      "userSeller": "Продавец",
+      "userConsumer": "Покупатель",
+      "userType": "Тип",
+      "userTypeLabel": "Тип пользователя",
+      "tags": "Теги"
+    },
+    "button": {
+      "submit": "Отправить",
+      "pay": "Оплатить",
+      "cancel": "Закрыть",
+      "later": "Позже",
+      "confirm": "Подтвердить",
+      "complain": "Пожаловаться",
+      "save": "Опубликовать",
+      "ok": "Ok",
+      "createProduct": "Новый продукт",
+      "edit": "Редактировать",
+      "remove": "Удалить",
+      "back": "Назад",
+      "continue": "Продолжить",
+      "goToSettings": "Перейти к настройкам",
+      "estimate": "Оценить",
+      "paid": "Оплата получена",
+      "yes": "Да",
+      "no": "Нет",
+      "confirmPayment": "Оплачено",
+      "completeDeal": "Закрыть сделку",
+      "passwordInput": "Войти",
+      "signIn": "Войти в аккаунт",
+      "store": "Сохранить",
+      "revoke": "Отмена",
+      "proceed": "Продолжить"
+    },
+    "validations": {
+      "required": "Обязательно для заполнения",
+      "requiredAccept": "Требуется принять",
+      "numberPositive": "Только положительное число",
+      "numberInteger": "Только целое число",
+      "numberMax": "Число должно быть меньше 2000000000",
+      "onlyNumbers": "Только цифры",
+      "usernameRequired": "Имя пользователя обязательно",
+      "nameRequired": "Имя обязательно",
+      "nameNoNumbers": "Имя не должно содержать цифры, символы, пробелы",
+      "surnameRequired": "Фамилия обязательна",
+      "tooLong": "Значение поля должно быть менее 50 знаков",
+      "tooLongDescription": "Значение поля должно быть менее 255 знаков",
+      "veryLongDeacription": "Значение поля должно быть менее 1000 знаков",
+      "tooShort": "Значение поля должно быть не менее 2 знаков",
+      "surnameNoNumbers": "Фамилия не должна содержать цифры, символы, пробелы",
+      "phoneRequired": "Номер телефона обязателен",
+      "phoneValidation": "Введите правильный номер телефона",
+      "emailRequired": "Почта обязательна",
+      "email": "Введите действительный электронный адрес",
+      "passwordRequired": "Пароль обязателен",
+      "passwordMinLength": "Пароль должен быть больше 8 символов",
+      "passwordConfirmRequired": "Требуется подтверждение пароля",
+      "regex": "Пароль должен содержать  как минимум одну цифру, латинскую строчную букву и заглавную букву",
+      "passwordMatch": "Пароли не совпадают",
+      "companyRequired": "Требуется компания",
+      "requestDescriptionRequired": "Требуется описание",
+      "requestDescriptionMaxLength": "Описание слишком длинное",
+      "minOneTag": "Выберите тег",
+      "maxTagCount": "Лимит 3 тега",
+      "minOneMedia": "Обязательно для заполнения",
+      "maxTenMedia": "Максимальное количество файлов 10",
+      "imageResolution": "Разрешение изображения должно быть от 100x100 до 4320x7680",
+      "imageSize": "Размер файла слишком большой. Допустимый размер 2 Мб",
+      "requestNameTooLong": "Значение поля должно быть менее 255 знаков",
+      "offerNameTooLong": "Значение поля должно быть менее 255 знаков",
+      "maxProductCountInOfferCreation": "Вы можете выбрать только один продукт при создании предложения",
+      "userTypeRequired": "Необходимо выбрать тип пользователя",
+      "companyTooShort": "Слишком коротное название компании",
+      "companyTooLong": "Слишком длинное название компании"
+    },
+    "password": {
+      "newPassword": "Новый пароль",
+      "confirmPassword": "Повторите пароль",
+      "code": "Код подтверждения",
+      "oldPassword": "Старый пароль"
+    }
+  },
+  "media": {
+    "add": "Добавить фото"
+  },
+  "card": {
+    "links": {
+      "learnMore": "Подробнее"
+    },
+    "price": "Цена"
+  },
+  "currencySign": "₽",
+  "sentEmail": "Отправили письмо на e-mail",
+  "completeRegistration": "Для завершения регистрации, подтвердите свой e-mail",
+  "chat": {
+    "sendMessage": "Сообщение",
+    "addImage": "Загрузить изображения",
+    "fileSizeLimit": "Один или несколько файлов, которые вы хотите загрузить, превышают максмально допустимый размер в 2МБ, по этому не будут загружены",
+    "outNumberedAlert": "Вы не можете загрузить более 10 файлов за один раз, ",
+    "deleteOutNumbered": "пожалуйста, удалите ",
+    "numberToDelete": " из них",
+    "previewImageDelete": "Удалить",
+    "validations": {
+      "messageTooLong": "Максимальный размер сообщения 255 символов",
+      "toManyImages": "Максимальное количество изображений 10"
+    },
+    "days": {
+      "yesterday": "Вчера",
+      "today": "Сегодня"
+    }
+  },
+  "passwordChange": {
+    "success": "Ваш пароль успешно изменен",
+    "error": "Извините, пароль не удалось изменить"
+  },
+  "filterPopup": {
+    "chooseStatus": "Выбрать статус",
+    "status": "Статус",
+    "apply": "Применить",
+    "myProducts": "Мои товары"
+  }
+}

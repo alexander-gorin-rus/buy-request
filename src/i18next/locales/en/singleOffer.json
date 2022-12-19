@@ -1,0 +1,46 @@
+{
+  "title": "Offer information",
+  "offerName": "Name",
+  "desc": "Description:",
+  "contact": "Contact",
+  "productType": "Product type:",
+  "price": "Price:",
+  "transactionAmount": "Transaction amount is",
+  "createdAt": "Created at",
+  "buttons": {
+    "makeOffer": "Make an offer",
+    "add": "Add",
+    "delete": "Delete",
+    "edit": "Edit",
+    "message": "Message",
+    "confirm": "Confirm",
+    "refuse": "Refuse",
+    "cancel": "Cancel",
+    "accept": "Accept",
+    "goToDeal": "Go to deal"
+  },
+  "rejectionByConsumer": "This offer was rejected by consumer and no more active",
+  "rejectionBySeller": "This offer was canceled by seller and no more active",
+  "offer": {
+    "offerStatus": "Offer Status:",
+    "canceled": "Canceled",
+    "canceledBySeller": "Canceled by seller",
+    "canceledByConsumer": "Canceled by consumer",
+    "confirmed": "Confirmed",
+    "created": "Created",
+    "inDeal": "In deal",
+    "isHold": "Is hold",
+    "inProgress": "In progress"
+  },
+  "offerStatusPlural": {
+    "offerStatus": "Offer Status:",
+    "canceled": "Canceled",
+    "canceledBySeller": "Canceled by seller",
+    "canceledByConsumer": "Canceled by consumer",
+    "confirmed": "Confirmed",
+    "created": "Created",
+    "inDeal": "In deal",
+    "isHold": "Is hold",
+    "inProgress": "In progress"
+  }
+}

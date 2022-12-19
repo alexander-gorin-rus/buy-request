@@ -1,0 +1,45 @@
+{
+  "title": "Информация о предложении",
+  "offerName": "Название",
+  "desc": "Описание:",
+  "contact": "Контакт",
+  "productType": "Тип продукта:",
+  "price": "Цена",
+  "transactionAmount": "Сумма сделки составляет",
+  "createdAt": "Дата создания",
+  "buttons": {
+    "makeOffer": "Сделать предложение",
+    "add": "Добавить",
+    "delete": "Удалить",
+    "edit": "Редактировать",
+    "message": "Сообщение",
+    "confirm": "Принять",
+    "refuse": "Отклонить",
+    "cancel": "Отменить",
+    "accept": "Принять",
+    "goToDeal": "Перейти к сделке"
+  },
+  "rejectionByConsumer": "Это предложение было отклонено покупателем и больше не активно",
+  "rejectionBySeller": "Это предложение было отменено продавцом и больше не активно",
+  "offer": {
+    "offerStatus": "Статус предложения:",
+    "canceled": "Отменено",
+    "canceledBySeller": "Отменено продавцом",
+    "canceledByConsumer": "Отменено покупателем",
+    "confirmed": "Подтверждено",
+    "created": "Создано",
+    "inDeal": "В сделке",
+    "isHold": "Активно",
+    "inProgress": "В процессе"
+  },
+  "offerStatusPlural": {
+    "canceled": "Отменены",
+    "canceledBySeller": "Отменены продавцом",
+    "canceledByConsumer": "Отменены покупателем",
+    "confirmed": "Подтверждены",
+    "created": "Созданы",
+    "inDeal": "В сделке",
+    "isHold": "Активны",
+    "inProgress": "В процессе"
+  }
+}

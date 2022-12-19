@@ -1,0 +1,36 @@
+{
+  "title": "Request information",
+  "desc": "Description:",
+  "requestTitle": "Request name:",
+  "productType": "Product type:",
+  "budget": "up to",
+  "contact": "Contact",
+  "createdAt": "Created at",
+  "backToList": "Requests list",
+  "report": "Complain",
+  "showToSellers": "Show to sellers",
+  "media": "Media",
+  "tags": "Tags",
+  "products": {
+    "label": "Suitable products",
+    "tooltip": "Suitable products that the consumer is ready to buy"
+  },
+  "readyForAnalogues": {
+    "label": "Ready for similar products",
+    "tooltip": "The consumer is ready to consider other products for the selected tags"
+  },
+  "buttons": {
+    "makeOffer": "Make an offer",
+    "message": "Message",
+    "edit": "Edit",
+    "remove": "Remove"
+  },
+  "deleteWarning": {
+    "title": "Request will be permanently deleted",
+    "description": "Received offers will be cancelled. Proceed?",
+    "buttons": {
+      "accept": "Delete",
+      "cancel": "Cancel"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Transaction",
+  "success": "The payment was successful",
+  "failure": "For technical reasons payment has not been made",
+  "form": {
+    "buttons": {
+      "backToDeal": "Back to deal",
+      "backToPayment": "Back to payment"
+    }
+  }
+}

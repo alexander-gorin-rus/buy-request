@@ -1,0 +1,11 @@
+{
+  "title": "Drag drop some files here, or click to select files",
+  "errorMessages": {
+    "file-invalid-type": "File type must be .jpeg, .jpg, .png, .bmp, .mp4",
+    "file-too-large": "The file size is too large. Permissible size 2 MB for images and 100 MB",
+    "too-many-files": "Maximum number of files"
+  },
+  "info": {
+    "notAllFilesMeetRequirements": "Not all files meet the requirements"
+  }
+}

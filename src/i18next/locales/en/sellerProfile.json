@@ -1,0 +1,24 @@
+{
+  "title": "Seller profile",
+  "tagsSettingsNotice": "To receive requests, you must subscribe to at least one tag!",
+  "buttons": {
+    "cancel": "Cancel",
+    "changePassword": "Change password",
+    "save": "Save",
+    "editProfile": "Edit profile"
+  },
+  "form": {
+    "label": {
+      "enableEmailNotice": "Enable email notifications",
+      "tags": "Tags"
+    },
+    "buttons": {
+      "cancel": "Cancel",
+      "save": "Save",
+      "editSettings": "Edit settings"
+    }
+  },
+  "headers": {
+    "settings": "Settings"
+  }
+}

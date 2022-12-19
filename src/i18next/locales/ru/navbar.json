@@ -1,0 +1,12 @@
+{
+    "navigations": {
+        "products": "Каталог",
+        "requests": "Запросы",
+        "offers": "Предложения",
+        "deals": "Сделки"
+    },
+    "userActions": {
+        "signup": "Регистрация",
+        "login": "Вход"
+    }
+}

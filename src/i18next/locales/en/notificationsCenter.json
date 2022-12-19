@@ -1,0 +1,73 @@
+{
+  "noNotifications": "No notifications",
+  "showViewed": "Only not viewed",
+  "clearAll": "Clean All",
+  "chipLabel": {
+    "newOffer": "New offer",
+    "newRequest": "New request",
+    "offerApproved": "Offer approved",
+    "unknown": "Unknown"
+  },
+  "request": {
+    "created": {
+      "label": "new request"
+    }
+  },
+  "offer": {
+    "created": {
+      "label": "new offer"
+    },
+    "canceled": {
+      "label": "offer canceled"
+    },
+    "confirmed": {
+      "label": "offer confirmed"
+    }
+  },
+  "deal": {
+    "created": {
+      "label": "deal created"
+    },
+    "paid": {
+      "label": "deal paid"
+    },
+    "canceled": {
+      "label": "deal canceled"
+    },
+    "completed": {
+      "label": "deal completed"
+    },
+    "customer_paid": {
+      "label": "consumer has paid for the deal"
+    },
+    "dispute": {
+      "label": "opened a dispute in a deal"
+    }
+  },
+  "new_message": {
+    "label": "new message in chat"
+  },
+  "default": {
+    "label": "notification"
+  },
+  "type": {
+    "label": "notification type",
+    "all": "All",
+    "deals": "Deals",
+    "offers": "Offers",
+    "requests": "Requests",
+    "archived": "Archive"
+  },
+  "period": {
+    "label":"Period",
+    "choose_period": "Choose period",
+    "all": "all time",
+    "last_day": "24 hours",
+    "last_week": "7 days",
+    "last_month": "31 days"
+  },
+  "notifications": {
+    "deleteNotification": "This notification will be deleted. Continue?",
+    "delete": "delete"
+  }
+}

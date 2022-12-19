@@ -1,0 +1,24 @@
+{
+  "consumerNavBar": {
+    "requests": "Запросы",
+    "deals": "Сделки",
+    "offers": "Предложения",
+    "catalog": "Справочник"
+  },
+  "sellerNavBar": {
+    "requests": "Запросы",
+    "deals": "Сделки",
+    "offers": "Предложения",
+    "catalog": "Справочник"
+  },
+  "baseSettings": {
+    "dashboard": "Панель управления",
+    "logout": "Выйти"
+  },
+  "consumerSettings": {
+    "profile": "Профиль"
+  },
+  "sellerSettings": {
+    "profileSeller": "Профиль продавца"
+  }
+}
